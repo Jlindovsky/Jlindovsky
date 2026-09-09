@@ -1,17 +1,5 @@
 ### Hi there 👋
 
-I'm a student of IT with a passion for programming and innovative technologies. My goal is to develop my skills and knowledge in the field of software development and contribute to the creation of modern and efficient solutions. I'm particularly interested in the areas of automation and intelligent systems.
-
-🔭 **I’m currently working on:** 
-- My bachelor's thesis focusing on Multi-level modeling and coordination of actions of holonic systems utilizing ROS (Robot Operating System).
-- My bachelor's degree
-
-🌱 **I’m currently learning:** 
-- Object-Oriented Programming (OOP)
-- Networking concepts
-- Databases
-- SwiftUI (for iOS development)
-- Artificial Intelligence (AI)
 
 🛠️ **Languages and Tools:**
 
